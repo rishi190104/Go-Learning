@@ -9,3 +9,19 @@ const counts = []int{1, 2, 3, 4, 5, 6} why this doesn't works with const
 ---
 nested maps and maps using structs is pending
 ---
+
+---
+number: 9082568471,
+
+works on a 64-bit machine because int is 64 bits there.
+
+On a 32-bit machine it would overflow.
+
+A better choice for phone numbers is:
+
+works on a 64-bit machine because int is 64 bits there.
+
+On a 32-bit machine it would overflow.
+
+A better choice for phone numbers is:
+---
