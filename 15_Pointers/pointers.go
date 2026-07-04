@@ -7,6 +7,7 @@ func nums(number int) {
 }
 
 func nums1(number *int) {
+	//this is called dereference operator
 	*number = 10
 }
 
