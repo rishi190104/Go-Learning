@@ -36,3 +36,7 @@ _
 ---
 Need to learn about the String() in depth as it is in the GO interface
 ---
+
+---
+Need to learn about the comparable type in GO lang marked as to learn on line 30 of 19_Generics\generics.go
+---
