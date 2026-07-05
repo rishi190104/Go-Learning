@@ -29,3 +29,5 @@ A better choice for phone numbers is:
 ---
 I need to understand if there is no constructor in the go how do we write in with a normal go function
 ---
+
+_
