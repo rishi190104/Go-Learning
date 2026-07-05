@@ -31,3 +31,8 @@ I need to understand if there is no constructor in the go how do we write in wit
 ---
 
 _
+
+
+---
+Need to learn about the String() in depth as it is in the GO interface
+---
